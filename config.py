@@ -1,0 +1,8 @@
+# Konfiguracja bota Emerald Shop
+TOKEN = "MTU2ODY4NzU5NzM2OTI5OTA0NA.GwJcUV.q3KjrjRq7DRPep9VYB4nyYSzROTuK-RrqyQUT0"
+
+# ID ról administracyjnych / sprzedawców
+ADMIN_ROLE_IDS = [1517904000995954899, 1517895800343232674]
+
+# ID rangi lidera
+LIDER_ROLE_ID = 1517894479305117906

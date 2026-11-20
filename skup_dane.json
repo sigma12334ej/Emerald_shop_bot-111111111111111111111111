@@ -1,0 +1,48 @@
+{
+    "Anarchia.gg - Lifesteal": [
+        {
+            "ilosc": "100000$",
+            "cena": "5 PLN"
+        },
+        {
+            "ilosc": "Pakiet startowy",
+            "cena": "10 PLN"
+        }
+    ],
+    "Anarchia.gg - BoxPVP": [
+        {
+            "ilosc": "Itemy PVP",
+            "cena": "15 PLN"
+        }
+    ],
+    "Minestar.gg - SkyPvP": [
+        {
+            "ilosc": "Waluta 50k",
+            "cena": "3 PLN"
+        }
+    ],
+    "Minestar.gg - Lifesteal": [
+        {
+            "ilosc": "Waluta 50k",
+            "cena": "3 PLN"
+        }
+    ],
+    "Rapy.gg - EarthSMP": [
+        {
+            "ilosc": "Waluta 50k",
+            "cena": "3 PLN"
+        }
+    ],
+    "Rapy.gg - Wojny Gildii": [
+        {
+            "ilosc": "Waluta 50k",
+            "cena": "3 PLN"
+        }
+    ],
+    "Rapy.gg - BoxPVP": [
+        {
+            "ilosc": "Waluta 50k",
+            "cena": "3 PLN"
+        }
+    ]
+}

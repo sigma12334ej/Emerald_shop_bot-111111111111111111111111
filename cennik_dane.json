@@ -1,0 +1,100 @@
+{
+    "Anarchia.gg - Lifesteal": [
+        {
+            "ilosc": "11000$",
+            "cena": "1 PLN"
+        },
+        {
+            "ilosc": "50000$",
+            "cena": "4 PLN"
+        },
+        {
+            "ilosc": "Ranga VIP",
+            "cena": "15 PLN"
+        }
+    ],
+    "Anarchia.gg - BoxPVP": [
+        {
+            "ilosc": "Start",
+            "cena": "5 PLN"
+        },
+        {
+            "ilosc": "BoxVip",
+            "cena": "20 PLN"
+        },
+        {
+            "ilosc": "Klucze",
+            "cena": "10 PLN"
+        }
+    ],
+    "Minestar.gg - SkyPvP": [
+        {
+            "ilosc": "11000$",
+            "cena": "1 PLN"
+        },
+        {
+            "ilosc": "50000$",
+            "cena": "4 PLN"
+        },
+        {
+            "ilosc": "Ranga VIP",
+            "cena": "15 PLN"
+        }
+    ],
+    "Minestar.gg - Lifesteal": [
+        {
+            "ilosc": "11000$",
+            "cena": "1 PLN"
+        },
+        {
+            "ilosc": "50000$",
+            "cena": "4 PLN"
+        },
+        {
+            "ilosc": "Ranga VIP",
+            "cena": "15 PLN"
+        }
+    ],
+    "Rapy.gg - EarthSMP": [
+        {
+            "ilosc": "11000$",
+            "cena": "1 PLN"
+        },
+        {
+            "ilosc": "50000$",
+            "cena": "4 PLN"
+        },
+        {
+            "ilosc": "Ranga VIP",
+            "cena": "15 PLN"
+        }
+    ],
+    "Rapy.gg - Wojny Gildii": [
+        {
+            "ilosc": "11000$",
+            "cena": "1 PLN"
+        },
+        {
+            "ilosc": "50000$",
+            "cena": "4 PLN"
+        },
+        {
+            "ilosc": "Ranga VIP",
+            "cena": "15 PLN"
+        }
+    ],
+    "Rapy.gg - BoxPVP": [
+        {
+            "ilosc": "Start",
+            "cena": "5 PLN"
+        },
+        {
+            "ilosc": "BoxVip",
+            "cena": "20 PLN"
+        },
+        {
+            "ilosc": "Klucze",
+            "cena": "10 PLN"
+        }
+    ]
+}
